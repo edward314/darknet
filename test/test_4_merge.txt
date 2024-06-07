@@ -1,0 +1,4 @@
+/home/pgh/work/image/merge_safety_vest_and_hat/source/test/微信图片_20240118173153.jpg
+/home/pgh/work/image/merge_safety_vest_and_hat/source/test/微信图片_20240118173210.jpg
+/home/pgh/work/image/merge_safety_vest_and_hat/source/test/微信图片_20240118173221.jpg
+/home/pgh/work/image/merge_safety_vest_and_hat/source/test/m_125_20240117_0015.jpg
